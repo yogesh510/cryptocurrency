@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "226490112542",
+    "project_id": "cryptoc-befcb",
+    "storage_bucket": "cryptoc-befcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226490112542:android:269bfc83d9bdaa237fec0f",
+        "android_client_info": {
+          "package_name": "com.firstapp.cryptoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226490112542-4i52t31mjmk8nk2i2nroimdksjpfmja3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH2NliyuqGo81raM73yb0LBudUUfmEHCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226490112542-4i52t31mjmk8nk2i2nroimdksjpfmja3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
